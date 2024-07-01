@@ -3,7 +3,7 @@
     "displayName": "Copy Code Button",
     "description": "Adds a button to copy the current file's code to the clipboard.",
     "version": "0.0.1",
-    "publisher": "your-publisher-id",
+    "publisher": "JustSouichi",
     "engines": {
         "vscode": "^1.50.0"
     },
