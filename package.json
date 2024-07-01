@@ -16,6 +16,7 @@
         "type": "git",
         "url": "https://github.com/JustSouichi/copy-button.git"
     },
+    "icon": "https://github.com/JustSouichi/copy-button/blob/main/logo.png",
     "contributes": {
         "commands": [{
             "command": "extension.copyCode",
