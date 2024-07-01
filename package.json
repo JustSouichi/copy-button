@@ -12,6 +12,10 @@
         "onCommand:extension.copyCode"
     ],
     "main": "./extension.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JustSouichi/copy-button.git"
+    },
     "contributes": {
         "commands": [{
             "command": "extension.copyCode",

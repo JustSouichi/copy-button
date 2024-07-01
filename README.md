@@ -1,4 +1,4 @@
-<img src="./images/copy-light.svg" alt="Copy Icon Light" width="100"/>
+<img src="./logo.png" alt="Copy Icon Light" width="100"/>
 
 # Copy Code Button
 
