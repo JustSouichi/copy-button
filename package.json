@@ -1,0 +1,40 @@
+{
+    "name": "copy-code-button",
+    "displayName": "Copy Code Button",
+    "description": "Adds a button to copy the current file's code to the clipboard.",
+    "version": "0.0.1",
+    "publisher": "your-publisher-id",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": ["Other"],
+    "activationEvents": [
+        "onCommand:extension.copyCode"
+    ],
+    "main": "./extension.js",
+    "contributes": {
+        "commands": [{
+            "command": "extension.copyCode",
+            "title": "Copy Code",
+            "icon": {
+                "light": "./images/copy-light.svg",
+                "dark": "./images/copy-light.svg"
+            }
+        }],
+        "menus": {
+            "editor/title": [{
+                "command": "extension.copyCode",
+                "group": "navigation@1"
+            }]
+        }
+    },
+    "scripts": {
+        "vscode:prepublish": "npm run compile",
+        "compile": "echo 'Compiling...' && exit 0",
+        "lint": "eslint . --ext js"
+    },
+    "devDependencies": {
+        "eslint": "^7.10.0",
+        "vsce": "^1.75.0"
+    }
+}
