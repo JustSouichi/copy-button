@@ -14,9 +14,9 @@
     "main": "./extension.js",
     "repository": {
         "type": "git",
-        "url": "./logo.png"
+        "url": "https://github.com/JustSouichi/copy-button"
     },
-    "icon": "https://github.com/JustSouichi/copy-button/blob/main/logo.png",
+    "icon": "./logo.png",
     "contributes": {
         "commands": [{
             "command": "extension.copyCode",
