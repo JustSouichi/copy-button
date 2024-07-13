@@ -1,6 +1,4 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uctLL5OQG2g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<img src="https://raw.githubusercontent.com/JustSouichi/copy-button/main/images/copy-light.svg" alt="Copy Icon Light" width="100"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uctLL5OQG2g?si=40lp4c8XXJd5BYrS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Copy Code Button
 
