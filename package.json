@@ -2,7 +2,7 @@
     "name": "copy-code-button",
     "displayName": "Copy Code Button",
     "description": "Adds a button to copy the current file's code to the clipboard.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "JustSouichi",
     "engines": {
         "vscode": "^1.50.0"
