@@ -22,7 +22,7 @@
             "command": "extension.copyCode",
             "title": "Copy Code",
             "icon": {
-                "light": "./multimedia/images/copy-light.svg",
+                "light": "./multimedia/images/copy-dark.svg",
                 "dark": "./multimedia/images/copy-light.svg"
             }
         }],
