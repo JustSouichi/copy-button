@@ -16,14 +16,14 @@
         "type": "git",
         "url": "https://github.com/JustSouichi/copy-button"
     },
-    "icon": "copy-light.png",
+    "icon": "./multimedia/images/copy-light.png",
     "contributes": {
         "commands": [{
             "command": "extension.copyCode",
             "title": "Copy Code",
             "icon": {
-                "light": "./multimedia/images/copy-light.svg",
-                "dark": "./multimedia/images/copy-dark.svg"
+                "light": "multimedia/images/copy-dark.svg",
+                "dark": "multimedia/images/copy-svg.svg"
             }
         }],
         "menus": {
