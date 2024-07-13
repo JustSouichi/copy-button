@@ -1,6 +1,6 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uctLL5OQG2g?si=40lp4c8XXJd5BYrS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 # Copy Code Button
+
+![Copy Code Button](https://raw.githubusercontent.com/JustSouichi/copy-button/main/multimedia/images/copy-light.svg)
 
 This extension for Visual Studio Code adds a "Copy Code" button to the editor. With just one click, users can copy all the text in their active editor to the clipboard. This is particularly useful for developers who frequently need to share code snippets or quickly move code between files.
 
@@ -12,13 +12,17 @@ This extension for Visual Studio Code adds a "Copy Code" button to the editor. W
 ## Installation
 
 1. Open Visual Studio Code.
-2. Go to Extensions view by clicking on the Extensions icon on the Sidebar or pressing `Ctrl+Shift+X`.
+2. Go to Extensions view by clicking on the Extensions icon on the Sidebar or pressing Ctrl+Shift+X.
 3. Search for "Copy Code Button".
 4. Click on the Install button.
 
 ## How to Use
 
 Once installed, you will see a new "Copy Code" button in the title bar of the editor when a file is open. Click this button to copy all the text from the active editor to your clipboard. A confirmation message will appear in the status bar.
+
+## Video Demonstration
+
+[Watch the video demonstration of the "Copy Code Button" extension](https://raw.githubusercontent.com/JustSouichi/copy-button/main/multimedia/videos/presentation.mp4)
 
 ## Requirements
 
