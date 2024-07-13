@@ -22,8 +22,8 @@
             "command": "extension.copyCode",
             "title": "Copy Code",
             "icon": {
-                "light": "./images/copy-light.svg",
-                "dark": "./images/copy-light.svg"
+                "light": "./multimedia/images/copy-light.svg",
+                "dark": "./multimedia/images/copy-light.svg"
             }
         }],
         "menus": {
